@@ -1,0 +1,201 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>HotFire - Pornô Grátis</title>
+  <style>
+    body {
+      margin: 0;
+      padding: 0;
+      background: #0a0a0a;
+      color: #fff;
+      font-family: 'Arial', sans-serif;
+      overflow-x: hidden;
+    }
+    header {
+      background: linear-gradient(45deg, #ff0066, #8b00ff);
+      padding: 15px 20px;
+      text-align: center;
+      position: sticky;
+      top: 0;
+      z-index: 100;
+    }
+    .logo {
+      font-size: 32px;
+      font-weight: bold;
+      text-shadow: 0 0 10px #fff;
+    }
+    nav {
+      background: #1a1a1a;
+      padding: 10px;
+      text-align: center;
+    }
+    nav a {
+      color: #ff66b2;
+      margin: 0 15px;
+      text-decoration: none;
+      font-weight: bold;
+    }
+    .hero {
+      height: 80vh;
+      background: url('https://picsum.photos/id/1015/1920/1080') center/cover;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      text-align: center;
+      position: relative;
+    }
+    .hero::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 0; right: 0; bottom: 0;
+      background: rgba(0,0,0,0.7);
+    }
+    .hero-content {
+      position: relative;
+      z-index: 2;
+    }
+    .hero h1 {
+      font-size: 4rem;
+      margin: 0;
+    }
+    .hero p {
+      font-size: 1.5rem;
+    }
+    .btn {
+      display: inline-block;
+      margin-top: 20px;
+      padding: 15px 40px;
+      background: #ff0066;
+      color: white;
+      border-radius: 50px;
+      text-decoration: none;
+      font-size: 1.3rem;
+      transition: 0.3s;
+    }
+    .btn:hover {
+      transform: scale(1.1);
+      background: #ff3388;
+    }
+    .section {
+      padding: 40px 20px;
+    }
+    h2 {
+      text-align: center;
+      color: #ff66b2;
+      margin-bottom: 30px;
+    }
+    .videos {
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+      gap: 20px;
+      max-width: 1400px;
+      margin: 0 auto;
+    }
+    .video-card {
+      background: #1a1a1a;
+      border-radius: 12px;
+      overflow: hidden;
+      transition: 0.3s;
+    }
+    .video-card:hover {
+      transform: translateY(-10px);
+      box-shadow: 0 0 20px rgba(255, 0, 102, 0.6);
+    }
+    .video-card img {
+      width: 100%;
+      height: 180px;
+      object-fit: cover;
+    }
+    .video-info {
+      padding: 12px;
+    }
+    .video-info h3 {
+      margin: 0 0 8px 0;
+      font-size: 1.1rem;
+    }
+    .duration {
+      position: absolute;
+      background: rgba(0,0,0,0.8);
+      padding: 3px 8px;
+      border-radius: 4px;
+      font-size: 0.9rem;
+      top: 10px;
+      right: 10px;
+    }
+    footer {
+      text-align: center;
+      padding: 30px;
+      background: #111;
+      color: #888;
+    }
+  </style>
+</head>
+<body>
+
+  <header>
+    <div class="logo">🔥 HOTFIRE</div>
+  </header>
+
+  <nav>
+    <a href="#">Início</a>
+    <a href="#">Categorias</a>
+    <a href="#">Vídeos Mais Vistos</a>
+    <a href="#">Ao Vivo</a>
+    <a href="#">Amadoras</a>
+  </nav>
+
+  <section class="hero">
+    <div class="hero-content">
+      <h1>Os melhores vídeos adultos</h1>
+      <p>Grátis • Sem cadastro • 4K</p>
+      <a href="#" class="btn">ENTRAR AGORA</a>
+    </div>
+  </section>
+
+  <section class="section">
+    <h2>🔥 Trending Agora</h2>
+    <div class="videos">
+      <div class="video-card">
+        <div style="position:relative">
+          <img src="https://picsum.photos/id/1015/400/220" alt="video">
+          <div class="duration">12:45</div>
+        </div>
+        <div class="video-info">
+          <h3>Morena gostosa rebolando no pau</h3>
+          <p>1.2M views • Há 2h</p>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div style="position:relative">
+          <img src="https://picsum.photos/id/237/400/220" alt="video">
+          <div class="duration">08:19</div>
+        </div>
+        <div class="video-info">
+          <h3>Loira levando leitinho na cara</h3>
+          <p>892K views • Há 5h</p>
+        </div>
+      </div>
+
+      <div class="video-card">
+        <div style="position:relative">
+          <img src="https://picsum.photos/id/201/400/220" alt="video">
+          <div class="duration">22:10</div>
+        </div>
+        <div class="video-info">
+          <h3>Novinha safada no motel</h3>
+          <p>2.1M views • Há 1 dia</p>
+        </div>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>HotFire © 2026 - Site de entretenimento adulto. +18</p>
+    <p>Todo conteúdo é fictício para demonstração.</p>
+  </footer>
+
+</body>
+</html>
